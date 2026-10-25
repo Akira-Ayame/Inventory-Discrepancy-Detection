@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+python-dotenv
+
+# Optional: live LLM narration only, the code has a built in mock mode that does not require LLM narration.
+openai
