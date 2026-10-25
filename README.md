@@ -57,4 +57,4 @@ Additionally, since I went with an F1 metric (harmonic mean, think percentage of
 The histograms, heat maps, the narrated LLM tables (or mock in lieu of LLM) all tell the story of the data.  What I accomplished in this demonstration is shining a light on the story and walked you through what the data was telling us from the beginning.
 
 ## License
-TBD
+MIT License
